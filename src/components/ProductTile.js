@@ -1,6 +1,5 @@
 import React from 'react'
 import '../App.css'
-import {BsStarHalf,BsStarFill, BsAlarmFill} from 'react-icons/bs'
 
 export default function ProductTile({title,category,price,rating,image}) {
 
